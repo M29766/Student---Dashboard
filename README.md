@@ -26,7 +26,7 @@ npm install
 
 # Start development server
 npm run dev
-Live at: http://localhost:5173
+
 
 📁 Project Structure
 student-dashboard/

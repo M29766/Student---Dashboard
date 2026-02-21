@@ -80,4 +80,4 @@ Manas Nandanwar
 💼 Engineering Student | Full-Stack Developer
 
 📧 nandanwarmanas@email.com 
-🔗 GitHub | LinkedIn
+🔗 [GitHub](https://github.com/M29766) | [LinkedIn](https://www.linkedin.com/in/manas-nandanwar-900019326/)

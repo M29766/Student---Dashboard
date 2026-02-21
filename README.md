@@ -18,7 +18,7 @@ Deployment: Netlify/Vercel/GitHub Pages
 
 🚀 Quick Start
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/student-dashboard.git
+git clone (https://github.com/M29766/Student---Dashboard)
 cd student-dashboard
 
 # Install dependencies

@@ -79,5 +79,5 @@ Manas Nandanwar
 📍 Nagpur, Maharashtra, India
 💼 Engineering Student | Full-Stack Developer
 
-📧 nandanwarmanas@email.com 
+📧 nandanwarmanas@gmail.com 
 🔗 [GitHub](https://github.com/M29766) | [LinkedIn](https://www.linkedin.com/in/manas-nandanwar-900019326/)

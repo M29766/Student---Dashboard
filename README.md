@@ -52,3 +52,42 @@ A modern **React + Vite** student dashboard with responsive cards, add student f
 <img width="450" height="450" alt="3" src="https://github.com/user-attachments/assets/a1a534ae-2bd2-4bd8-a767-e1ab54977e9e" />
 
 ## 📁 Project Structure
+
+
+## 🎯 Usage
+
+1. **Home** (`/`) - View student statistics cards
+2. **Add Student** (`/add-student`) - Add new students with form validation
+3. **Students** (`/students`) - View complete student list table
+
+## 🧪 Available Scripts
+
+```bash
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run preview  # Preview production build
+```
+
+## 📸 Demo
+
+Live demo: [https://YOUR_USERNAME.github.io/student-dashboard](https://YOUR_USERNAME.github.io/student-dashboard)
+
+## 🙌 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a Pull Request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Manas Nandanwar**  
+[LinkedIn](https://linkedin.com/in/manasnandanwar) | [Portfolio](https://manasnandanwar.dev) | [GitHub](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ **Star this repository if you found it helpful!**

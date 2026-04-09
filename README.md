@@ -41,7 +41,7 @@ A modern **React + Vite** student dashboard with responsive cards, add student f
 ## 📱 Screenshots
 
 ### Dashboard Home
-<img width="1919" height="905" alt="1" src="https://github.com/user-attachments/assets/9238605b-e35b-45da-acdd-dd0ecc3710c5" />
+<img width="152" height="152" alt="1" src="https://github.com/user-attachments/assets/9238605b-e35b-45da-acdd-dd0ecc3710c5" />
 
 
 ### Add Student Form

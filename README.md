@@ -69,9 +69,6 @@ npm run build    # Build for production
 npm run preview  # Preview production build
 ```
 
-## 📸 Demo
-
-Live demo: [https://YOUR_USERNAME.github.io/student-dashboard](https://YOUR_USERNAME.github.io/student-dashboard)
 
 ## 🙌 Contributing
 

@@ -41,13 +41,14 @@ A modern **React + Vite** student dashboard with responsive cards, add student f
 ## 📱 Screenshots
 
 ### Dashboard Home
-<img width="400" height="400" alt="1" src="https://github.com/user-attachments/assets/9238605b-e35b-45da-acdd-dd0ecc3710c5" />
+<img width="450" height="450" alt="1" src="https://github.com/user-attachments/assets/9238605b-e35b-45da-acdd-dd0ecc3710c5" />
 
 
 ### Add Student Form
-![Add Student](screenshots/add-student.png)
+<img width="450" height="450" alt="2" src="https://github.com/user-attachments/assets/2e373d00-9f04-41a3-8b5f-ed8787b54300" />
+
 
 ### Students List
-![Students Table](screenshots/students-table.png)
+<img width="450" height="450" alt="3" src="https://github.com/user-attachments/assets/a1a534ae-2bd2-4bd8-a767-e1ab54977e9e" />
 
 ## 📁 Project Structure

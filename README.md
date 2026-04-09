@@ -21,7 +21,7 @@ A modern **React + Vite** student dashboard with responsive cards, add student f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/student-dashboard.git
+   git clone https://github.com/M29766/Student---Dashboard.git
    cd student-dashboard
    ```
 

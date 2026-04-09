@@ -52,6 +52,7 @@ A modern **React + Vite** student dashboard with responsive cards, add student f
 <img width="450" height="450" alt="3" src="https://github.com/user-attachments/assets/a1a534ae-2bd2-4bd8-a767-e1ab54977e9e" />
 
 ## 📁 Project Structure
+<img width="468" height="278" alt="image" src="https://github.com/user-attachments/assets/62da8416-9bd6-4649-9b7b-1b2ce57d7366" />
 
 
 ## 🎯 Usage
@@ -86,7 +87,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Manas Nandanwar**  
-[LinkedIn](https://www.linkedin.com/in/manas-nandanwar-900019326/) | [Portfolio](file:///C:/Users/Manas/Downloads/Manas%20Nandanwar%20resume.pdf) | [GitHub](https://github.com/M29766)
+[LinkedIn](https://www.linkedin.com/in/manas-nandanwar-900019326/) | [GitHub](https://github.com/M29766)
 
 ---
 

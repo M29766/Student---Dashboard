@@ -1,83 +1,52 @@
-📚 Student Dashboard
-Modern, responsive Student Management Dashboard built with React + Vite + CSS. Professional portfolio project showcasing full-stack frontend skills.
+# Student Dashboard 📚
 
-📱 Features
-✅ Live Dashboard Cards - Total/Active/Inactive (real-time updates)
-✅ Add Student Form - Fully functional with validation
-✅ Professional Green Table - Alternating rows, status badges
-✅ Fully Responsive - Perfect on mobile + desktop
-✅ Modern Glassmorphism UI - Gradients, shadows, hover effects
-✅ Clean Architecture - Separate CSS file, BEM naming
+A modern **React + Vite** student dashboard with responsive cards, add student form, and dynamic student list table. Built with React Router for navigation and clean CSS styling.
 
-🛠 Tech Stack
-Frontend: React 18 + Vite + Vanilla CSS
-Design: Glassmorphism + Custom Gradients
-Deployment: Netlify/Vercel/GitHub Pages
+## ✨ Features
 
-📸 Screenshots
+- **Dashboard Cards** - Total, Active, and Inactive student counts with live updates
+- **Add Student Form** - Form validation and automatic navigation to student list
+- **Students Table** - Responsive table with status badges and roll number highlighting
+- **Navigation** - React Router powered tab navigation with active states
+- **Responsive Design** - Works on desktop and mobile
 
-🚀 Quick Start
-# Clone repository
-git clone (https://github.com/M29766/Student---Dashboard)
-cd student-dashboard
+## 🛠️ Tech Stack
 
-# Install dependencies
-npm install
+- **React** - Component-based UI library
+- **Vite** - Fast development server and build tool
+- **React Router DOM** - Client-side routing
+- **CSS** - Custom styling with gradients and modern cards
 
-# Start development server
-npm run dev
+## 🚀 Quick Start
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/student-dashboard.git
+   cd student-dashboard
+   ```
 
-📁 Project Structure
-student-dashboard/
-├── public/              # Static assets
-├── src/
-│   ├── App.jsx         # Main component + logic
-│   ├── App.css         # All styles (separate file!)
-│   └── main.jsx        # Vite entry point
-├── package.json        # Dependencies + scripts
-├── vite.config.js      # Vite configuration
-└── README.md          # This file 📖
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-🎯 Key Features Demonstrated
-React Hooks - useState for dynamic state management
+3. **Start development server**
+   ```bash
+   npm run dev
+   ```
 
-CSS Architecture - Separate stylesheet with BEM methodology
+4. **Open your browser**
+   Visit `http://localhost:5173`
 
-Responsive Design - CSS Grid + Flexbox for all screen sizes
+## 📱 Screenshots
 
-Modern UI/UX - Glassmorphism effects, gradient backgrounds
+### Dashboard Home
+![Dashboard Cards](screenshots/dashboard.png)
 
-Data Visualization - Live updating dashboard statistics
+### Add Student Form
+![Add Student](screenshots/add-student.png)
 
-Component Organization - Clean separation of concerns
+### Students List
+![Students Table](screenshots/students-table.png)
 
-🔮 Future Enhancements
-[ ] Edit/Delete student functionality
-[ ] Search & Filter students
-[ ] Export to CSV/Excel
-[ ] Dark/Light mode toggle
-[ ] LocalStorage persistence
-[ ] Authentication system
-
-🎓 Skills Gained
-✅ React Functional Components + Hooks
-✅ Vite Build Tool + Hot Reload
-✅ Advanced CSS (Grid, Flexbox, Animations)
-✅ Responsive Web Design
-✅ Component Architecture
-✅ Modern UI/UX Patterns
-
-🙌 Acknowledgments
-React Documentation
-Vite Documentation
-Fluent UI Icons
-Built during React learning journey
-
-👨‍💻 Author
-Manas Nandanwar
-📍 Nagpur, Maharashtra, India
-💼 Engineering Student | Full-Stack Developer
-
-📧 nandanwarmanas@gmail.com 
-🔗 [GitHub](https://github.com/M29766) | [LinkedIn](https://www.linkedin.com/in/manas-nandanwar-900019326/)
+## 📁 Project Structure

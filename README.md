@@ -86,7 +86,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Manas Nandanwar**  
-[LinkedIn](https://linkedin.com/in/manasnandanwar) | [Portfolio](https://manasnandanwar.dev) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/manas-nandanwar-900019326/) | [Portfolio](file:///C:/Users/Manas/Downloads/Manas%20Nandanwar%20resume.pdf) | [GitHub](https://github.com/M29766)
 
 ---
 
